@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎨 Data-Driven Creative Portfolio
 
 A fully responsive, vibrant one-page portfolio website for a **Data Analyst** with multidisciplinary expertise in:
@@ -50,3 +51,6 @@ A fully responsive, vibrant one-page portfolio website for a **Data Analyst** wi
 
 ## 📁 File Structure
 
+=======
+# portfolio-project
+>>>>>>> c9edf28aae80dd0624610a887152e7cfd40dbe6b
